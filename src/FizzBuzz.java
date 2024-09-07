@@ -9,8 +9,9 @@ public class FizzBuzz {
 				System.out.println( "Fizz");
 			}else if (number % 5 == 0) {
 				System.out.println( "Buzz");
-			}else
+			}else {
 			System.out.println(number);
+			}
 		}
 			
 	}
